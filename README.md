@@ -1,1 +1,1 @@
-Ejercicios hechos en java...tanto proyectos personales como de universidad
+Este Repositorio fue creado con la intencion de guardar codigo realizado con Java
